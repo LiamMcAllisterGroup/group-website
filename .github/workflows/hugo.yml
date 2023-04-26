@@ -45,8 +45,8 @@ jobs:
         with:
           python-version: '3.9'
           cache: 'pip'
-      - name: Install Academic CLI
-        run: pip install academic==0.5.1
+      - name: Install requirements
+        run: pip install -r requirements.txt
       - name: Generate pages for publications
         run: academic import --bibtex ./static/publications.bib
       - name: Setup Pages
