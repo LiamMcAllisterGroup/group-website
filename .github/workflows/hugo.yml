@@ -40,6 +40,15 @@ jobs:
         uses: actions/checkout@v3
         with:
           submodules: recursive
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      - name: Install Academic CLI
+        run: pip install academic==0.5.1
+      - name: Generate pages for publications
+        run: academic import --bibtex ./static/publications.bib
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
