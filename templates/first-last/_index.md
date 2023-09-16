@@ -1,43 +1,44 @@
 ---
 # Display name
-title: Jakob Moritz
+title: Firstname Lastname
 
-weight: 10
+# Adjust this to order the different profiles
+weight: 50
 
 # Username (this should match the folder name)
 authors:
-  - jakob-moritz
+  - first-last
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? (This is only for Liam)
 superuser: false
 
 # Role/position
-role: Postdoc at CERN
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-  - name: CERN
-    url: 'https://www.home.cern/'
+  - name: Cornell University
+    url: 'https://www.cornell.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+  - String Theory
+  - Quantum Gravity
+  - Cosmology
+  - Algebraic Geometry
+  - Machine Learning
+  - Scientific Computing
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+    - course: PhD in Theoretical Physics
+      institution: Cornell University
+      year: 20xx - Present
+    - course: BSc in xxxxxxxx
+      institution: xxxxxxx
+      year: 20xx
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,13 +47,22 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz@cornell.edu'
+  link: 'mailto:xx@cornell.edu'
 - icon: inspire
   icon_pack: ai
-  link: https://inspirehep.net/authors/1766810
+  link: https://inspirehep.net/authors/xxxxxxx
 - icon: arxiv
   icon_pack: ai
-  link: https://arxiv.org/search/?searchtype=author&query=Moritz%2C+J
+  link: https://arxiv.org/search/xxxxxxx
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=xxxxxx
+- icon: github
+  icon_pack: fab
+  link: https://github.com/xxxxxxx
+- icon: link
+  icon_pack: fas
+  link: https://example.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,5 +75,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Affiliates
+  - Graduate Students
 ---
+
+Write a short bio here.

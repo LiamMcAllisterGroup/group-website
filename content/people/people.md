@@ -21,7 +21,7 @@ content:
     - Graduate Students
     - Underaduate Students
     - Affiliates
-    - Alumni
+    - Previous Members
 design:
   show_interests: false
   show_role: true

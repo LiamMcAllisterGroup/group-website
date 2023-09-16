@@ -12,12 +12,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoc at Harvard
 
 # Organizations/Affiliations
 organizations:
-  - name: Cornell University
-    url: 'https://www.cornell.edu/'
+  - name: Harvard University
+    url: 'https://www.harvard.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,5 +71,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Affiliates
 ---
