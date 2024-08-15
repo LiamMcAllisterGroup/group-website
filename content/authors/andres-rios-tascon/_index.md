@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Former PhD student
+role: RSE at Princeton University
 
 # Organizations/Affiliations
 #organizations:
