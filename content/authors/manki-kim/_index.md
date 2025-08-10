@@ -12,12 +12,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Pappalardo Fellow at MIT
+role: Postdoctoral Fellow at Stanford
 
 # Organizations/Affiliations
 organizations:
-  - name: MIT
-    url: 'https://www.mit.edu/'
+  - name: Stanford
+    url: 'https://www.stanford.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
