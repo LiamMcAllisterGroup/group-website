@@ -12,12 +12,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Pappalardo Fellow at MIT
 
 # Organizations/Affiliations
 organizations:
-  - name: Cornell University
-    url: 'https://www.cornell.edu/'
+  - name: MIT
+    url: 'https://www.mit.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,5 +68,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - Affiliates
 ---

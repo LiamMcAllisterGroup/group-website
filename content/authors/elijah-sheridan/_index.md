@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Jakob Moritz
+title: Elijah Sheridan
 
-weight: 10
+weight: 20
 
 # Username (this should match the folder name)
 authors:
-  - jakob-moritz
+  - elijah-sheridan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor at University of Wisconsin–Madison
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Wisconsin–Madison
-    url: 'https://www.wisc.edu/'
+  - name: Cornell University
+    url: 'https://www.cornell.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,13 +46,22 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz@cornell.edu'
+  link: 'mailto:es888@cornell.edu'
 - icon: inspire
   icon_pack: ai
-  link: https://inspirehep.net/authors/1766810
+  link: https://inspirehep.net/authors/1987436
 - icon: arxiv
   icon_pack: ai
-  link: https://arxiv.org/search/?searchtype=author&query=Moritz%2C+J
+  link: https://arxiv.org/search/?searchtype=author&query=Sheridan%2C+Elijah
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=7mTJu7oAAAAJ&hl=en
+- icon: university
+  icon_pack: fas
+  link: https://physics.cornell.edu/elijah-sheridan
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sheride
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,5 +74,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Affiliates
+  - Graduate Students
 ---
