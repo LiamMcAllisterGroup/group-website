@@ -34,7 +34,7 @@ education:
   courses:
     - course: PhD in Theoretical Physics
       institution: Cornell University
-      year: 2017 - Present
+      year: 2017 - 2023
     - course: BSc in Physics and Mathematics
       institution: Massachusetts Institute of Technology
       year: 2017
